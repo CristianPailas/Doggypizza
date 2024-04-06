@@ -1,0 +1,49 @@
+
+---Archivos descargados---
+Los archivos de importación para Pizzaro ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 120
+Información de archivos:
+URL del sitio = http://localhost/wordpress
+Archivo de datos = C:\xampp\htdocs\wordpress/wp-content/themes/pizzaro/assets/dummy-data/lite/dummy-data.xml
+Archivo de widget = C:\xampp\htdocs\wordpress/wp-content/themes/pizzaro/assets/dummy-data/lite/widgets.wie
+Archivo del personalizador = ¡no definido!
+Archivos de Redux:
+ pizzaro_options -> C:\xampp\htdocs\wordpress/wp-content/themes/pizzaro/assets/dummy-data/lite/redux-options.json 
+
+
+---ocdi/before_widgets_import---
+
+
+---Importando los widgets---
+Sidebar : 
+
+Buscar - Sin título - Importado
+Entradas recientes - Sin título - Importado
+Comentarios recientes - Sin título - Importado
+Archivos - Sin título - Importado
+Categorías - Sin título - Importado
+Meta - Sin título - Importado
+Pizzaro About - Welcome - Importado
+Pizzaro Recent Posts - Recent Posts - Importado
+Nube de etiquetas - Popular Tags - Importado
+Lista de productos - Best Deals - Importado
+
+Shop Sidebar : 
+
+Menú de Navegación - Sin título - Importado
+Búsqueda de productos - Sin título - Importado
+Filtrar productos por precio - Filter by price - Importado
+Lista de productos - Best Deals - Importado
+
+Product Filters : 
+
+Filtrar productos por precio - Filter by price - Importado
+Filtrar productos por atributo - Food Type - Importado
+
+
+
+---Ajustes de importación de Redux---
+¡La importación de los ajustes de Redux pizzaro_options ha finalizado correctamente!
+
+---ocdi/after_import---
+
